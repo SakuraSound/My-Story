@@ -1,0 +1,102 @@
+
+
+Personal Features:
+
+Physical Features
+    Strength
+    Height 
+    Weight
+    Muscle Mass
+    Speed 
+    Agility
+    Dexterity
+    
+Mental Features
+    Intelligence
+    Speed
+    Agility
+    Spatial Reasoning
+    Common Sense
+    Focus
+    Creativity
+    Recall
+    
+Personality Features
+    Dependable
+    Aggressive
+    Leadership
+    Empathetic
+    Sympathetic
+    Detailed
+    Open-Minded
+    Extraverted
+    Agreeable
+    Passionate
+    Selfishness
+    
+Spiritual Features
+    Luck
+    Faith
+
+Health Features:
+    Lung Capacity
+    Susceptible to Allergies
+    Smoking
+    How often get sick
+    Hydration
+    Exercise - Light
+    Exercise - Cardio
+    Exercise - Weights
+    Medication Frequency
+    Amount of Sleep
+    
+Foods:
+    Caffeine Intake
+    Alcohol Intake
+    Fruit Intake
+    Vegetable Intake
+    Fat Intake
+    Grain Intake
+    Protein Intake
+    Sweet Intake 
+    Likes - Spicy
+    Likes - Sour
+    Likes - Tart
+    Likes - Sweet
+    Likes - Bitter
+    Likes - Salty
+    Likes - Bland
+    Coffee or Tea
+
+Liberal Arts Features:
+
+
+Visual Arts Features:
+
+
+Communication Skills:
+
+Technology:
+    Use Computer
+    Spreadsheets
+    Word Processing
+    Presentations
+    Search Engine Use
+    EMail
+    Programming
+    Databases
+    Gaming
+    WPM
+    Pointers?
+    Threading?
+    
+
+Cognitive Features
+
+
+Environment
+
+
+Education
+
+Hobbies
