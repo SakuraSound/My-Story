@@ -14,3 +14,4 @@
 "PROTEIN intake:", -2, "None", -1, "Not much", 0, "Moderate", 1, "Quite a bit", 2, "Cant get enough of it" 
 "SWEETS intake:", -2, "None", -1, "Not much", 0, "Moderate", 1, "Quite a bit", 2, "Cant get enough of it" 
 "COFFEE or TEA?", -1, "COFFEE", 0, "NEITHER",  1, "TEA"
+ 
